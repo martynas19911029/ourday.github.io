@@ -1,0 +1,14 @@
+hr {
+    border: none;
+}
+
+h1 {
+    color: red;
+    font-weight: bold;
+}
+
+#demo {
+    color: yellow;
+    font-weight: bold;
+}
+
